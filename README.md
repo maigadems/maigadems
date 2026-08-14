@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maigadems
+- 👋 Hi, I’m Abdoul
 - 👀 I’m interested in Machine learning and AWS.
 - 🌱 I’m currently learning React, javascript, Spring-boot and API integration.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some ML model elaboration
 - 📫 How to reach me , maiga.projets@gmail.com
 
 <!---
